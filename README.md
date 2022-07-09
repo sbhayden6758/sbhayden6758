@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sbhayden6758
 - 👀 I’m interested in coding and networking
-- 🌱 I’m currently learning python
 - 💞️ I’d love to hear about your projects
 - 📫 You can reach me on Discord @sbhayden#9406
 
